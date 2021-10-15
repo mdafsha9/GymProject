@@ -38,3 +38,7 @@ nav{
 .menu a:first-child{
   border-bottom:2px solid #1a7beb;
 }
+.left img{
+  width:50%;
+  margin:10px;
+}
