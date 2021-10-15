@@ -10,7 +10,7 @@ header{
   background:black;
 }
 .icon img{
-  width:30px;
+  width:35px;
 }
 nav{
   width:100%;
@@ -34,4 +34,7 @@ nav{
   text-decoration:none;
   padding:10px;
   margin:10px;
+}
+.menu a:first-child{
+  border-bottom:2px solid #1a7beb;
 }
