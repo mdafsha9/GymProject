@@ -123,3 +123,14 @@ section{
 .signup-right{
   flex-basis:50%;
 }
+.signup-right span{
+    color:#1a7beb;
+  }
+.signup-right h1{
+  font-size:90px;
+}
+.signup-right h2{
+  font-size:45px;
+  letter-spacing:60px;
+  color:rgb(0,0,0,0.3);
+}
