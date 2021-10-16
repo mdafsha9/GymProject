@@ -111,3 +111,15 @@ section{
   flex-basis:50%;
   text-align:center;
 }
+#signup{
+  width:100%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.signup-left{
+  flex-basis:50%;
+}
+.signup-right{
+  flex-basis:50%;
+}
