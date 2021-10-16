@@ -38,7 +38,20 @@ nav{
 .menu a:first-child{
   border-bottom:2px solid #1a7beb;
 }
-.left img{
-  width:50%;
-  margin:10px;
+
+.container{
+  color:white;
+  width:100%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin-top:50px;
+}
+.left{
+  flex-basis:50%;
+}
+
+.right{
+  flex-basis:50%;
+  max-width:400px;
 }
