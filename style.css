@@ -35,6 +35,10 @@ nav{
   padding:10px;
   margin:10px;
 }
+.menu a:hover{
+  background:#1a7beb;
+  border-radius:5px;
+}
 .menu a:first-child{
   border-bottom:2px solid #1a7beb;
 }
@@ -54,4 +58,21 @@ nav{
 .right{
   flex-basis:50%;
   max-width:400px;
+}
+.right h1{
+  font-size:50px;
+  color:#1a7beb;
+}
+.right p{
+  font-size:20px;
+  margin:10px 0;
+}
+.c-btn{
+  border:2px solid #1a7beb;
+  border-radius:5px;
+  font-weight:bold;
+  padding:5px;
+  background:transparent;
+  color:#1a7beb;
+  margin:10px 0;
 }
