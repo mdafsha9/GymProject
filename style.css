@@ -114,6 +114,7 @@ section{
 }
 #signup{
   padding:50px 0px;
+  border-top:2px solid #1a7beb;
 }
 .signup-row{
   width:100%;
@@ -142,10 +143,14 @@ section{
 }
 #services{
   padding:50px 0px;
+  text-align:center;
 }
-.service-info h1{
+.services-info h1{
   font-size:50px;
 }
-.service-info p{
+.services-info span{
+  color:#1a7beb;
+}
+.services-info p{
   font-size:20px;
 }
