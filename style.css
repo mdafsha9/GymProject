@@ -77,3 +77,37 @@ nav{
   color:#1a7beb;
   margin:10px 0;
 }
+section{
+  padding:100px 0;
+}
+
+#about{
+  width:100%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.about-left{
+  flex-basis:50%;
+  max-width:400px;
+  margin:auto;
+}
+.about-left span{
+  color:#1a7beb;
+}
+.about-left h1{
+  font-size:50px;
+  margin:5px;
+}
+.about-left h2{
+  margin:5px;
+}
+.about-left p{
+  font-size:20px;
+  text-align:justify;
+  margin:15px 0px;;
+}
+.about-right{
+  flex-basis:50%;
+  text-align:center;
+}
