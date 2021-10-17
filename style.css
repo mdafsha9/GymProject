@@ -144,13 +144,31 @@ section{
 #services{
   padding:50px 0px;
   text-align:center;
+  background:url("images/service.jpg");
 }
 .services-info h1{
   font-size:50px;
+  color:white;
 }
 .services-info span{
   color:#1a7beb;
 }
 .services-info p{
   font-size:20px;
+  color:white;
+  font-weight:bold;
+}
+.service-container{
+  display:grid;
+  grid-template-rows:minmax(150px, auto);
+  grid-template-columns:repeat(3,200px);
+  justify-content:center;
+  grid-gap:3em;
+  padding:20px;
+}
+ .service-box{
+   border-radius:10px;
+   padding:25px;
+   background:white;
+
 }
