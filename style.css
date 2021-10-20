@@ -182,3 +182,17 @@ section{
 .service-box h1{
   margin:5px 0px;
 }
+
+#testimonials{
+  padding:100px;
+}
+.services-info{
+  text-align:center;
+}
+.services-info h1{
+  font-size:50px;
+  color:black;
+}
+.services-info p{
+  color:black;
+}
