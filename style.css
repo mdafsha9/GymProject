@@ -196,3 +196,17 @@ section{
 .services-info p{
   color:black;
 }
+.testimonials-card{
+  padding-top:50px;
+  text-align:center;
+  width:50%;
+  margin:auto;
+}
+.testimonials-card img{
+  border-radius:50%;
+  width:100px;
+  height:100px;
+  }
+.testimonials-card p,h1{
+  margin:20px 0px;
+}
