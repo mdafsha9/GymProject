@@ -214,12 +214,14 @@ section{
   justify-content:center;
   margin-top:10px;
 
+
 }
 .equip img{
   width:150px;
   height:150px;
+  box-shadow:2px 3px 5px grey;
 }
-#work, #testimonials{
+#work, #testimonials, #contact{
   text-align:center;
 }
 .services-infom h1{
